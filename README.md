@@ -1,2 +1,2 @@
 Class 1.<br>
-PDE with paython cod
+Numerical solver of PDE with paython cod
